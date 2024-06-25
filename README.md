@@ -17,7 +17,7 @@ As required, it has the following steps from declaring public variables, mapping
    ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/9a7f0409-cd1a-4ac1-871b-7046b2afe176)
 
 * To fix this, you can change the compiler version through the solidity compiler
-  ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/a4ee1173-cf81-42c9-a424-d61e1155a95f)
+** ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/a4ee1173-cf81-42c9-a424-d61e1155a95f)
  
 * Once the error is gone, you can start compiling the file under the Solidity Compiler
   ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/f43e1b24-ea6a-4e5d-abd1-1d756d557582)
