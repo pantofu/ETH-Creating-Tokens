@@ -1,7 +1,7 @@
 # ETH-Creating-Tokens
-This sample program showcases the simple creation of a token and its functionalities.
+This sample program showcases the simple creation of a token and its functionalities. You can follow the steps I have shown here to see how everything works!
 ## Description
-As required, it has the following steps from declaring public variables, mapping, adding a mint function, and the burn function. This program shows you the basics of solidity programming and serves as a sample for minting and burning tokens within Ethereum.
+As required, it has the following: declaring public variables, mapping, adding a mint function, and the burn function. This program shows you the basics of solidity programming and serves as a sample for minting and burning tokens within Ethereum.
 
 ## Getting Started
 
