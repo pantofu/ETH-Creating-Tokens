@@ -30,13 +30,13 @@ As required, it has the following steps from declaring public variables, mapping
   ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/5126a560-65d3-43ef-9ded-6e83d26138be)
 
 * Try putting it in the address field of the mint function here. You can also put your desired value and then press the transact button. If things went through properly, the result should show up for total supply and balances.
-  ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/dad2c9e6-7ddf-4026-bb52-3f5835487048)
- 
+  ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/b2764ec8-4b12-498d-8b2f-d5fa3a69697d)
+
 * The same process can be applied to the burn function.
-  ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/b7e29b2e-7428-4862-aa66-35b01a61779d)
+  ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/cb56b836-439d-4d7d-a504-4f0b3c0d1f95)
 
 * Doing so will reduce the number of total supply and our current balance.
-  ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/7f2ff633-0668-4a0b-9f06-1b1fb3109d28)
+  ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/7e24705b-51d7-4b15-bf91-30fe25c6ae7b)
 
 ### Authors
 Jester Cruzate
