@@ -22,21 +22,11 @@ As required, it has the following steps from declaring public variables, mapping
 
 * Try deploying it under the Deploy & Run Transactions.
   ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/70f646be-93fe-4128-b786-262ca72a4079)
-
-* If it was successful, it should show up in the terminal, and the Deployed/Unpinned Contracts.
-  ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/3548187a-7dfb-4711-9bfd-cc1281687ad3)
-
-* You can start playing around with it by copying the account.
-  ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/5126a560-65d3-43ef-9ded-6e83d26138be)
-
-* Try putting it in the address field of the mint function here. You can also put your desired value and then press the transact button. If things went through properly, the result should show up for total supply and balances.
+It should appear in the terminal and the Deployed/Unpinned Contracts if it was successful. Once executed, you can start playing around with it by copying the account. Try putting it in the address field of the mint function. You can also put your desired value and then press the transact button. If things went through properly, the result should show up for total supply and balances.
   ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/b2764ec8-4b12-498d-8b2f-d5fa3a69697d)
 
-* The same process can be applied to the burn function.
+* The same process can be applied to the burn function. Doing so will reduce the number of total supply and our current balance.
   ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/cb56b836-439d-4d7d-a504-4f0b3c0d1f95)
-
-* Doing so will reduce the number of total supply and our current balance.
-  ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/7e24705b-51d7-4b15-bf91-30fe25c6ae7b)
 
 ### Authors
 Jester Cruzate
