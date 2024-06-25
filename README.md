@@ -28,5 +28,5 @@ It should appear in the terminal and the Deployed/Unpinned Contracts if it was s
 * The same process can be applied to the burn function. Doing so will reduce the number of total supply and our current balance.
   ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/cb56b836-439d-4d7d-a504-4f0b3c0d1f95)
 
-### Authors
+#### Authors
 Jester Cruzate
