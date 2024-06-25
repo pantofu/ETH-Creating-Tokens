@@ -7,19 +7,18 @@ As required, it has the following steps from declaring public variables, mapping
 
 ### Installing
 * The following code can be applied on the https://remix.ethereum.org/ to see how it works.
-** ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/864a1c49-a272-4a18-b9c6-0acfcf730236)
+![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/864a1c49-a272-4a18-b9c6-0acfcf730236)
 
 ### Executing program
 * To start things off, you can start with a new workspace by clicking "Start Coding"
-** ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/74457996-10f8-4aa0-b492-d29bcebaf907)
+![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/74457996-10f8-4aa0-b492-d29bcebaf907)
 
 * After pasting the code, you might run into an error by default. This is because of a different compiler version, as the image shows.
-** ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/9a7f0409-cd1a-4ac1-871b-7046b2afe176)
+![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/9a7f0409-cd1a-4ac1-871b-7046b2afe176)
   To fix this, you can change the compiler version through the solidity compiler.
 
  
 * Once the error is gone, you can start compiling the file under the Solidity Compiler.
-<br/>
   ![image](https://github.com/pantofu/ETH-Creating-Tokens/assets/104056079/f43e1b24-ea6a-4e5d-abd1-1d756d557582)
 
 * Try deploying it under the Deploy & Run Transactions.
